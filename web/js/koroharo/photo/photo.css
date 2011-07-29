@@ -1,0 +1,25 @@
+.photo-container {
+/*	border: solid 3px red; */
+}
+
+.photo-cell {
+	float: left;
+}
+
+.photo-link {
+
+}
+
+.photo-thumbnail {
+	border: solid 3px #888888;
+}
+.photo-text {
+	width: 100%;
+}
+
+#cboxTitle {
+	margin-left: 150px;
+	width: 60%;
+	text-align: left;
+	overflow: auto;
+}
